@@ -12,12 +12,6 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class ESTest {
 
-    @Autowired
-    public JestClient jestClient;
 
-    @Test
-    public void EStest(){
-
-    }
 
 }
